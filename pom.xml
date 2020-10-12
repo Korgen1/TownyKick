@@ -1,0 +1,32 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>me.Korgen0.TownyKick</groupId>
+    <artifactId>TownyKick</artifactId>
+    <version>1.0.0</version>
+   
+    <dependencies>
+ 		<dependency>
+			 <groupId>org.spigotmc</groupId>
+ 			<artifactId>spigot-api</artifactId>
+ 			<version>1.16.3-R0.1-SNAPSHOT</version>
+ 			<scope>provided</scope>
+ 		</dependency>
+		<dependency>
+			<groupId>com.github.TownyAdvanced</groupId>
+			<artifactId>Towny</artifactId>
+			<version>0.96.2.19</version>
+			<scope>provided</scope>
+		</dependency>
+    </dependencies>
+
+    <repositories>
+		<repository>
+			<id>spigot-repo</id>
+			<url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
+		</repository>
+        <repository>
+	    	<id>jitpack.io</id>
+	    	<url>https://jitpack.io</url>
+		</repository>
+    </repositories>
+</project>
