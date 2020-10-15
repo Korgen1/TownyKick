@@ -1,5 +1,5 @@
 # Disclaimer:
-Code has to be rewritten to be more effiecent and make use of the slimefun API, don't use for now
+Code has to be rewritten, don't use for now
 
 # TownyKick
 A simple plugin that allows you to kick unwanted players inside your town.
