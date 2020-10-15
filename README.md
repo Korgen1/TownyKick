@@ -1,3 +1,6 @@
+#Disclaimer:
+Code has to be rewritten, don't use for now
+
 # TownyKick
 A simple plugin that allows you to kick unwanted players inside your town.
 
