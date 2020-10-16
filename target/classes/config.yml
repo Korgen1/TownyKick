@@ -1,0 +1,17 @@
+#TownyKick Config
+
+format: "&cFormat: /tkick <player>"
+
+notintown: "&cYou are not in a town"
+
+kick: "&cYou were kicked out of the town!"
+
+pvp: "&cTarget must be in a plot with PvP disabled!"
+
+notinyourtown: "&cPlayer is not currently in your town!"
+
+notinsidetown: "&cPlayer is not currently in a town!"
+
+no-online: "&cThere is no online player by this name!"
+
+no-permission: "&cYou do not have the required permission to use this!"
